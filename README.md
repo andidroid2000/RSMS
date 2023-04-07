@@ -20,10 +20,14 @@ Television media coverage will be done with certain costs, depending on the chos
 
 ### Database schemas
 
+---
+
 <p align="center">
   <img src="./img/erd.png">
 </p>
+
 <br/>
+
 <p align="center">
   <img src="./img/diagram.png">
 </p>
